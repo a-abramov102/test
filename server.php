@@ -22,7 +22,7 @@ if ($ret){
     echo "There was a problem!\n";
     print_r($out);
 }else{
-    echo "Everything went better than expected!\n";
+    echo "Everything went better than expecsted!\n";
 }
 }
 
